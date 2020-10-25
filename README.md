@@ -2,7 +2,7 @@
 
 ## Send message from Line to Discord
 
-![alt text](images/linebot.jpg)
+![alt text](images/linebot.PNG)
 
 <br/>
 
