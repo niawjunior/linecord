@@ -1,11 +1,18 @@
 ### Line BOT X Discord BOT
 
-#### Line BOT
+## Send message from Line to Discord
 
-![alt text](linebot.jpg)
+![alt text](images/linebot.jpg)
 
 <br/>
 
-#### Discord BOT
+![alt text](images/discordbot.png)
 
-![alt text](discordbot.png)
+<br/>
+## Send message from Discord to Line
+
+![alt text](images/discord.png)
+
+<br/>
+
+![alt text](images/line.PNG)
